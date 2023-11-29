@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=ktu0709'sgithub!!%20render&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=ktu0709'sgithub!!&fontSize=50)
 
 ### Outline
 
