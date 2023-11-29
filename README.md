@@ -1,9 +1,22 @@
-### Hi there 👋
+[header](https://capsule-render.vercel.app/api?type=wave&color=7&height=300&section=header&text=capsule%20render&fontSize=90)
 
-- 🌱 I’m currently learning : python & Data Science & Data Enginnering
-- 👯 I’m looking to collaborate on 프로젝트
-- 🤔 I’m looking for help with 
-- 💬 Ask me about ...
-- 📫 How to reach me: ktu0709@naver.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Outline
+
+#### 1.1 profile
+- 이름 : 김태언
+- 생일 : 1996-07-09
+
+#### 1.2 Education
+- 전공 : 컴퓨터소프트웨어공학
+
+#### 1.3 Experiences
+- 총 경력 : 2년 6개월
+    - 가온소프트 - 개발1팀 
+
+#### 1.4 skills
+| skill | Careers | Note |
+| -------- | -------- | -------- |
+| SQL(MS SQL) | 2년 6개월 | 영림원 ERP 솔루션 SW 개발 |
+
+
+
