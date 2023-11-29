@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=eqq)
+[header](https://capsule-render.vercel.app/api?type=eqq)
 
 ### Outline
 
